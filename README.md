@@ -19,12 +19,15 @@ CineVerse is a modern, responsive web application that serves as your gateway to
 
 ## 📱 Screenshots
 
+
 ### Movie Details Page
+![Movie Details](screenshots/1.png)
 ![Movie Details](screenshots/2.png)
+![Movie Details](screenshots/3.png)
 
 ### Genre and Search Results
-![Search and Genre](screenshots/3.png)
-
+![Search and Genre](screenshots/5.png)
+![Search and Genre](screenshots/6.png)
 ## 🛠️ Technologies Used
 
 - React 18
