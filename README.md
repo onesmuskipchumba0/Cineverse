@@ -1,8 +1,9 @@
 # CineVerse 🎬
 
 CineVerse is a modern, responsive web application that serves as your gateway to exploring movies and TV shows. Built with React and powered by TMDB API, it offers a sleek interface for discovering, searching, and learning about your favorite entertainment content.
-**Deployment link**
-[CineVerse](https://cineverse-amber.vercel.app/)
+
+-**Deployment link**
+[Click here to view](https://cineverse-amber.vercel.app/)
 ![CineVerse Homepage](screenshots/4.png)
 
 ## 🌟 Features
